@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @shilpawar
-- 🙋‍♀️ Product Manager based in London
+👋 Hi, I’m Shilpa Pawar - Product Manager based in London
 
 
 <!---
